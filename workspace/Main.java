@@ -1,6 +1,6 @@
 //Author: Jackson Hammack
 //Date Created: 1/9/25
-//Purpose: To play a "fun" geography based quiz with the user
+//Purpose: To play a "fun" geography based quiz with the user.
 
 
 import java.awt.*;
